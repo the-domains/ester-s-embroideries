@@ -1,0 +1,23 @@
+name: "Ester's Embroideries"
+favicon: null
+layout_spectrum: 0.32076627667993307
+typography_spectrum: 0.8947559697553515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1063448681961745
+  lightness: 0.8152605034410954
+  saturation: 0.21076848660595715
+  rhythmicContrast: 0.7150325865950435
+purpose: []
