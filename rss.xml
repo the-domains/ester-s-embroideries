@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ester's Embroideries]]></title>
+        <description><![CDATA[Ester's Embroideries]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Oct 2015 19:18:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Ester's Embroideries]]></title>
+            <description><![CDATA[<article><h1>Welcome to Ester's Embroideries</h1><p>Elizabethan style sweet bag</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c50b2c34-31c1-45b8-b623-92b8f62de07a.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-esters-embroideries/index.html</link>
+            <guid isPermaLink="false">9e1e3b6a-3d9f-4e19-b994-791e47b4e3af</guid>
+            <pubDate>Tue, 27 Oct 2015 19:18:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
